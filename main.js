@@ -1,1 +1,1 @@
-const val = 55
+const val = 55;
